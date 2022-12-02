@@ -1,5 +1,6 @@
-
-# <p style="text-align: center;">Anti Toxicity</p>
-<p style="text-align: center;">⚡ Fast ⚡ | ⏳ Reliant ⏳ | 🎯 Precise 🎯 </p>
+<p align="center">
+  Anti Toxicity
+  ⚡ Fast ⚡ | ⏳ Reliant ⏳ | 🎯 Precise 🎯
+</p>
 
 ---
